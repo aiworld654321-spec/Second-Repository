@@ -1,2 +1,2 @@
-<h2>This is new para of second Repostory</h2>
+<h2>This is new para of second Repository</h2>
 <i>Samar Pratap</i>
